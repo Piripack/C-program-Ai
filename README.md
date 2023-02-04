@@ -1,5 +1,3 @@
-
-
 <style>
 body {
   background-color: #f2f2f2;
@@ -14,16 +12,46 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80;
+  height: 80px;
 }
 
 header h1 {
   margin: 0;
 }
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #333;
+  color: #fff;
+  height: 40px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 60%;
+}
+
+nav a {
+  color: #fff;
+  display: block;
+  padding: 0 10px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #000;
+}
 </style>
 
 
-
+<header>
+  <h1>C Programming</h1>
+</header>
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
