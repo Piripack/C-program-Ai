@@ -5,6 +5,12 @@ body {
   margin: 0;
   padding: 0;
 }
+  <style>
+  body {
+    background-color: #000080;
+  }
+</style>
+
 
 header {
   background-color: #333;
@@ -49,10 +55,7 @@ nav a:hover {
 </style>
 
 <style>
-  body {
-    background-color: #000080;
-  }
-</style>
+  
 
 
 <header>
