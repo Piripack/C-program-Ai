@@ -14,7 +14,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60;
+  height: 80;
 }
 
 header h1 {
