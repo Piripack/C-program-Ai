@@ -6,13 +6,6 @@ body {
   padding: 0;
 }
 
-  <style>
-  body {
-    background-color: #000080;
-  }
-</style>
-
-  
 header {
   background-color: #333;
   color: #fff;
@@ -53,6 +46,12 @@ nav a {
 nav a:hover {
   background-color: #000;
 }
+</style>
+
+<style>
+  body {
+    background-color: #000080;
+  }
 </style>
 
 
